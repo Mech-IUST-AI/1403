@@ -1,2 +1,2 @@
 # 1403
-AI mans in 1403-1
+AI Students in 1403-1
