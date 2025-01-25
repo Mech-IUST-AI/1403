@@ -14,7 +14,7 @@ This project, developed by **Hosein Ghaderi**, **Ali Khosrozadeh**, and **Fateme
 - `Group2/`: All files related to the project, including code and documentation.  
 
 ## Acknowledgments  
-We extend our sincere gratitude to **Professor Dr. Zabihifar** and the **Teaching Assistants** for their valuable guidance and support throughout this project.  
+We extend our sincere gratitude to **Prof. Zabihifar** and the **Teaching Assistants** for their valuable guidance and support throughout this project.  
 
 ## Contributors  
 - Hosein Ghaderi  
