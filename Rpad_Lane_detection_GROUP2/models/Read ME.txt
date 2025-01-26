@@ -1,4 +1,0 @@
-The original models were converted to different formats (including .onnx) by PINTO0309, 
-download the models from his repository and save them into the models folder.
-
-repository : https://github.com/PINTO0309/PINTO_model_zoo/tree/main/276_HybridNets

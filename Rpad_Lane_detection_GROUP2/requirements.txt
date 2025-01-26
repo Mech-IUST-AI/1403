@@ -1,8 +1,0 @@
-opencv-python
-onnx
-onnxruntime
-onnxoptimizer
-onnxruntime-gpu
-imread-from-url
-matplotlib
-numpy
