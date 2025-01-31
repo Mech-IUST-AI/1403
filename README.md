@@ -1,4 +1,4 @@
-# AI Students Projects 4031  
+# AI Students Projects 1403  
 **Professor**: Dr. Zabihiffar
 
 This repository contains various artificial intelligence projects developed by students in the AI course for the semester 4031, under the supervision of Dr. Zabihiffar.
